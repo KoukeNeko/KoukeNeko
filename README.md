@@ -1,10 +1,3 @@
-- 👋 Hi, I’m VioletsFoxes
-<!-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
-
-<!---
-doeshing/doeshing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m KoukeNeko
+- Preparing Exam for institute.
+[![GitHub Streak](https://streak-stats.demolab.com?user=KoukeNeko&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
