@@ -1,2 +1,2 @@
 - 👋 Hi, I’m KoukeNeko
-- Preparing Exam for institute.
+- Preparing exams for institute.
