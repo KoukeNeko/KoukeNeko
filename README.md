@@ -1,2 +1,2 @@
 - 👋 Hi, I’m KoukeNeko
-- It's time to do something...
+- It's time to do something..
