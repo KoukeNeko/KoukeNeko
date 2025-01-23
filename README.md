@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/doeshing.site-000000?style=for-the-badge&logo=ghost&logoColor=white" alt="doeshing.site">
   </a>
 </div>
-<h3> 🛠 &nbsp;Tech Stack</h3>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
