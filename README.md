@@ -26,6 +26,7 @@ I am a Computer Science student passionate about **Cloud Computing** and **Cross
 ## 🛠️ Technical Skills
 
 ### **Frontend & Mobile**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,6 +34,7 @@ I am a Computer Science student passionate about **Cloud Computing** and **Cross
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### **Backend & Cloud**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -44,5 +46,8 @@ I am a Computer Science student passionate about **Cloud Computing** and **Cross
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoukeNeko&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KoukeNeko&theme=tokyonight" alt="GitHub Profile Details" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KoukeNeko&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KoukeNeko&theme=tokyonight" alt="Repos by Language" />
 </div>
