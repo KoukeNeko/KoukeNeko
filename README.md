@@ -83,15 +83,3 @@ Mount SFTP, FTP, and WebDAV servers directly in Finder.<br><br>
 ## Current Focus
 
 > Building native software that feels like part of the operating system—not another layer on top of it.
-
-<div align="center">
-
----
-
-### Get in touch
-
-[Email](mailto:develop@doeshing.one) ·
-[LinkedIn](https://www.linkedin.com/in/doeshing) ·
-[Website](https://doeshing.one)
-
-</div>
