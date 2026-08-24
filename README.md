@@ -16,18 +16,30 @@ I turn operating-system friction into focused, native tools.
 
 ## About Me
 
-- Computer Science student at National Chung Cheng University.
 - Interested in native applications, system integration, and developer tools.
 - Currently working on native remote-storage integration for macOS and learning Go.
 - Open to software engineering internships and collaboration.
+
+## Experience
+
+### Data Science Project Assistant — National Yunlin University of Science and Technology
+
+Supported computer-vision dataset preparation and research data workflows.
 
 ## Community Experience
 
 ### SITCON Camp 2025 — Information Team
 
-Contributed to the official camp website and attendee points-trading system.
+Designed and deployed the database architecture for the camp's concurrent points-trading system.
 
 [Camp Website](https://github.com/sitcon-tw/camp2025) · [Points System](https://github.com/sitcon-tw/camp2025-stock)
+
+## Education & Recognition
+
+- M.S. student in Computer Science at National Chung Cheng University.
+- B.S. in Computer Science from National Yunlin University of Science and Technology.
+- Second Place — 2023 Capstone Project Competition, LoRaWAN appliance management system.
+- AWS Certified AI Practitioner.
 
 ## Selected Work
 
