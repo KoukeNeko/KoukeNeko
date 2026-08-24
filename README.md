@@ -29,6 +29,15 @@ I turn operating-system friction into focused, native tools.
 - Currently working on native remote-storage integration for macOS.
 - Open to software engineering internships and collaboration.
 
+## Community Experience
+
+### SITCON Camp 2025 — Information Team
+
+Contributed to the official camp website and attendee points-trading system.
+
+[Camp Website](https://github.com/sitcon-tw/camp2025) ·
+[Points System](https://github.com/sitcon-tw/camp2025-stock)
+
 ## Selected Work
 
 <table>
