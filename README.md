@@ -35,8 +35,7 @@ I turn operating-system friction into focused, native tools.
 
 Contributed to the official camp website and attendee points-trading system.
 
-[Camp Website](https://github.com/sitcon-tw/camp2025) ·
-[Points System](https://github.com/sitcon-tw/camp2025-stock)
+[Camp Website](https://github.com/sitcon-tw/camp2025) · [Points System](https://github.com/sitcon-tw/camp2025-stock)
 
 ## Selected Work
 
