@@ -34,31 +34,19 @@ I turn operating-system friction into focused, native tools.
 <table>
 <tr>
 <td width="33%" valign="top">
-
-<h3><a href="https://github.com/KoukeNeko/FinderHover">FinderHover</a></h3>
-
-<p>Rich file information on hover, directly inside macOS Finder.</p>
-
-<p><code>macOS</code> <code>Swift</code> <code>SwiftUI</code></p>
-
+<strong><a href="https://github.com/KoukeNeko/FinderHover">FinderHover</a></strong><br>
+Rich file information on hover, directly inside macOS Finder.<br><br>
+<code>macOS</code> <code>Swift</code> <code>SwiftUI</code>
 </td>
 <td width="33%" valign="top">
-
-<h3><a href="https://github.com/KoukeNeko/EssentialKeyTools">EssentialKeyTools</a></h3>
-
-<p>Remap the Nothing Phone Essential Key without root access.</p>
-
-<p><code>Android</code> <code>Kotlin</code> <code>Compose</code></p>
-
+<strong><a href="https://github.com/KoukeNeko/EssentialKeyTools">EssentialKeyTools</a></strong><br>
+Remap the Nothing Phone Essential Key without root access.<br><br>
+<code>Android</code> <code>Kotlin</code> <code>Compose</code>
 </td>
 <td width="33%" valign="top">
-
-<h3><a href="https://github.com/KoukeNeko/Hamasen">Hamasen</a></h3>
-
-<p>Mount SFTP, FTP, and WebDAV servers directly in Finder.</p>
-
-<p><code>macOS</code> <code>File Provider</code> <code>Swift</code></p>
-
+<strong><a href="https://github.com/KoukeNeko/Hamasen">Hamasen</a></strong><br>
+Mount SFTP, FTP, and WebDAV servers directly in Finder.<br><br>
+<code>macOS</code> <code>File Provider</code> <code>Swift</code>
 </td>
 </tr>
 </table>
