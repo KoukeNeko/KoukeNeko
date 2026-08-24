@@ -51,3 +51,10 @@ I am a Computer Science student passionate about **Cloud Computing** and **Cross
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KoukeNeko&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KoukeNeko&theme=tokyonight" alt="Repos by Language" />
 </div>
+---
+
+## Featured Projects
+
+- [FinderHover](https://github.com/KoukeNeko/FinderHover) — A customizable macOS Finder utility for rich file information on hover.
+- [EssentialKeyTools](https://github.com/KoukeNeko/EssentialKeyTools) — Remap the Nothing Phone Essential Key without root.
+- [Hamasen](https://github.com/KoukeNeko/Hamasen) — Mount SFTP, FTP, and WebDAV servers directly in Finder.
