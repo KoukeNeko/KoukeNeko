@@ -8,15 +8,7 @@
 
 I turn operating-system friction into focused, native tools.
 
-<a href="mailto:develop@doeshing.one">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/doeshing">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://doeshing.one">
-  <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Website">
-</a>
+<a href="mailto:develop@doeshing.one"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/doeshing"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://doeshing.one"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
 
 </div>
 
