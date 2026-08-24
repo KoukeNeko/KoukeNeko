@@ -26,7 +26,7 @@ I turn operating-system friction into focused, native tools.
 
 - Computer Science student at National Chung Cheng University.
 - Interested in native applications, system integration, and developer tools.
-- Currently working on native remote-storage integration for macOS.
+- Currently working on native remote-storage integration for macOS and learning Go.
 - Open to software engineering internships and collaboration.
 
 ## Community Experience
